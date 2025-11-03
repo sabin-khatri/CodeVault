@@ -127,7 +127,7 @@ function About() {
       <div className="absolute inset-0 bg-gradient-to-b from-black/80 via-black/70 to-black/80" />
       <div className="relative z-10 max-w-7xl mx-auto">
         <Head
-          title="About NEPTECH Tribe"
+          title="About NepTech Tribe"
           head={<span>Who Are <span className="text-yellow-400">We</span></span>}
         />
         <motion.div
